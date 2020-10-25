@@ -4,6 +4,9 @@
 
 
 ## [Link del Video](https://youtu.be/jHLNzod8ayY)  
+
+## [Link del evento       ](https://www.meetup.com/es-ES/code-mx/events/273753348/)<img align="center" width="200" height="100" src="https://secure.meetupstatic.com/s/img/5455565085016210254/logo/svg/logo--script.svg"/>
+
 <img align="right" src="https://media.giphy.com/media/DeOLak98PZ60I5IAzM/giphy.gif"/>
 
 Una aplicación para obtener una ruta óptima, para visitar todos los puntos en google maps. Con android studio y un poco de jgap y google cloud, realizaremos una app demo en donde encontraremos la ruta del repartidor!!, discutimos en el meetup que puede traernos beneficios como ahorro de tiempo y gas!.
